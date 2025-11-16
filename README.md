@@ -4,7 +4,8 @@
 
 Next.js, React, React Hooks, Vercel, TypeScript, Tailwind CSS and HTML.
 
-Course based: https://www.udemy.com/course/full-stack-development-with-next-js-typescript
+Course
+based: https://www.udemy.com/course/full-stack-development-with-next-js-typescript
 
 ## Run the project:
 
